@@ -16,7 +16,6 @@ ReleaseDate: 2026-09-05
 AppsAndFeaturesEntries:
 - DisplayName: PavelTools
   Publisher: Scorpio Software
-  DisplayVersion: 1.7.0
   ProductCode: '{9DA296F4-067E-40F0-9DE2-7337A65F2887}'
   UpgradeCode: '{D337C641-B876-4103-8EFF-CF49FEDE1701}'
   InstallerType: wix
